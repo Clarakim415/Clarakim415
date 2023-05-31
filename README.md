@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#This is Clara Kim (Seunghyun Kim), a **full-stack developer**, junior at **University of Wisconsin-Madison**.
+This is Clara Kim (Seunghyun Kim), a **full-stack developer**, junior at **University of Wisconsin-Madison**.
 
 > 🌱 I’m currently learning Deep Learning in python.
 
