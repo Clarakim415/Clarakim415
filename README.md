@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+This is Clara Kim (Seunghyun Kim), a full-stack developer.
+🌱 I’m currently learning Deep Learning on python.
+
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/pyhton-63A4A9?style=flat-square&logo=python&logoColor=63A4A9"/></a>
+
+
+
+
+
 <!--
 **Clarakim415/Clarakim415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
