@@ -16,7 +16,7 @@ This is Clara Kim (Seunghyun Kim), a **full-stack developer**, junior at **Unive
 <br>
 <br>
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/pyhton-a6b9ad?style=flat-square&logo=Python&logoColor=fbfbfb"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/python-a6b9ad?style=flat-square&logo=Python&logoColor=fbfbfb"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/RStudio-426d5c?style=flat-square&logo=RStudio&logoColor=fbfbfb"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/java-f7f7f7?style=flat-square&logo=Java&logoColor=fbfbfb"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/html-ddd7cc?style=flat-square&logo=HTML5&logoColor=fbfbfb"/></a>
